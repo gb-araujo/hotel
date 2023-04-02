@@ -1,6 +1,6 @@
 
-
-<h1>Um hotel para Terabithia.</h2>
+<h1>Hotel Paraíso.</h1>
+<h2>Atividade hotel.</h2>
 <p>Todo mundo quer aprender a trabalhar com código, mas nós vamos além do código.
 Sua capacidade de analisar um problema é a habilidade mais importante que você pode desenvolver.
 Os problemas abaixo possuem um contexto mais rebuscado, mas vamos encontrar soluções.</p>
