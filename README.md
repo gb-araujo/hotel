@@ -1,5 +1,5 @@
 
-<h1>Hotel Paraíso.</h1>
+<h1>Hotel Paraíso. <span>EM ANDAMENTO</span></h1>
 <h2>Atividade hotel.</h2>
 <p>Todo mundo quer aprender a trabalhar com código, mas nós vamos além do código.
 Sua capacidade de analisar um problema é a habilidade mais importante que você pode desenvolver.
