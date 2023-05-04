@@ -1,9 +1,5 @@
 
-<h1>Hotel Paraíso. <span>EM ANDAMENTO</span></h1>
-<h2>Atividade hotel.</h2>
-<p>Todo mundo quer aprender a trabalhar com código, mas nós vamos além do código.
-Sua capacidade de analisar um problema é a habilidade mais importante que você pode desenvolver.
-Os problemas abaixo possuem um contexto mais rebuscado, mas vamos encontrar soluções.</p>
+<h1>Hotel Paraíso.</h1>
+<p>Projeto de plataforma para funcionários de hotel
+Este projeto tem como objetivo desenvolver uma plataforma para ser utilizada por funcionários de hotéis. A plataforma deve ser composta por partes independentes, seguindo o conceito de software modulado.</p>
 <br>
-<p>Hoje vamos desenvolver um programa feito com vários outros programas utilizando um conceito de software modulado, feito com partes independentes. 
-O objetivo é desenvolver uma plataforma para funcionários do hotel usarem, não os hóspedes.</p> 
